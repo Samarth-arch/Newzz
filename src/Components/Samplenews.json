@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Kristina Wong",
+            "title": "WH Denies Politics in Decision to Cancel Space Command HQ Move to Alabama",
+            "description": "The Biden administration is denying that politics played a role in its decision to cancel the Space Command headquarters' move to Alabama.",
+            "url": "http://www.breitbart.com/politics/2023/08/02/biden-white-house-denies-playing-politics-decision-cancel-space-command-hq-move-alabama/",
+            "urlToImage": "https://media.breitbart.com/media/2023/08/Space-Command-military-patch-Chairman-of-the-Joint-Chiefs-of-Staff-Flickr-640x335.jpg",
+            "publishedAt": "2023-08-03T03:32:51Z",
+            "content": "The Biden administration is denying that politics played a role in its decision to cancel the Space Command headquarters’ move from Colorado to Alabama, despite the decision coming amid a nasty fight… [+8419 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Watch: Rudy Giuliani screams on Newsmax about Trump indictment | CNN Politics",
+            "description": "Daniel Hodges, a DC Metropolitan Police officer who was crushed in a doorway during the January 6, 2021, insurrection at the US Capitol, reacts to Rudy Giuliani speaking out on Newsmax about the indictment of former President Donald Trump by a federal grand j…",
+            "url": "https://www.cnn.com/videos/politics/2023/08/02/rudy-giuliani-trump-indictment-newsmax-cnc-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230802133220-giuliani-vpx-screengrab.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-03T00:37:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Sophie Grégoire Trudeau in 2019 on how she supported Justin",
+            "description": "Prior to the 2019 federal election, Sophie Grégoire Trudeau spoke with CBC News about how she and Justin Trudeau navigate rough waters together, knowing that the public life involved with politics would be difficult.",
+            "url": "http://www.cbc.ca/player/play/2251384899523",
+            "urlToImage": "https://thumbnails.cbc.ca/maven_legacy/thumbnails/784/978/sophietn.jpg",
+            "publishedAt": "2023-08-02T19:52:21.687181Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Mark Davis",
+            "title": "Newsweek",
+            "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+            "url": "https://www.newsweek.com/",
+            "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+            "publishedAt": "2023-03-01T12:07:28.8517009Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": "America wants to be the super power, supporting the Israel for the future invation of the european coutries",
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": "www.google.com",
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}
